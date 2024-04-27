@@ -1,0 +1,26 @@
+
+
+body{
+    background-image:url(images/bg-image.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.navbar-brand{
+    margin-left: 150px;
+}
+.container img{
+   
+    margin-top: 150px;
+
+}
+.container button{
+    width: 300px;
+    height: 80px;
+}
+.navbar button{
+    width: 200px;
+    height: 60px;
+}
+
+    
